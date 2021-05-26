@@ -14,7 +14,7 @@ namespace MOAction
 {
     internal class MOActionPlugin : IDalamudPlugin
     {
-        public string Name => "Mouseover Action Plugin";
+        public string Name => "Mouseover Action Plugin Austral's Edit";
 
         public MOActionConfiguration Configuration;
 
